@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Terminal Chat",
+  "main": "src/chat.js",
+  "scripts": {
+    "test": "node src/chat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/luisalbertopchmax/chat.git"
+  },
+  "keywords": [
+    "chat",
+    "shell"
+  ],
+  "author": "luisalbertophcmax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisalbertopchmax/chat/issues"
+  },
+  "homepage": "https://github.com/luisalbertopchmax/chat#readme"
+}
