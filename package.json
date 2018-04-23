@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/luisalbertopchmax/chat/issues"
   },
-  "homepage": "https://github.com/luisalbertopchmax/chat#readme"
+  "homepage": "https://github.com/luisalbertopchmax/chat#readme",
+  "dependencies": {}
 }

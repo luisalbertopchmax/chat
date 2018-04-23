@@ -22,3 +22,7 @@ yarn-error.log*
 
 # git
 /.git
+/package-lock.json
+
+#trash
+/src/*.txt
